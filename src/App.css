@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.appBox{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: #242435; */
+  background: rgb(21,51,196);
+background: linear-gradient(184deg, rgba(21,51,196,1) 39%, rgba(59,62,69,1) 51%, rgba(7,199,238,1) 100%);
+}
